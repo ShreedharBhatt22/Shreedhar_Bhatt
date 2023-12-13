@@ -26,13 +26,13 @@ python manage.py runserver
 - Paste the link to any web browser
 
 ## Screenshots
-![](images/7.png)
-![](images/6.png)
-![](images/2.png)
-![](images/1.png)
-![](images/3.png)
-![](images/4.png)
-![](images/5.png)
+![](Shreedhar_bhatt/images/7.png)
+![](Shreedhar_bhatt/images/6.png)
+![](Shreedhar_bhatt/images/2.png)
+![](Shreedhar_bhatt/images/1.png)
+![](Shreedhar_bhatt/images/3.png)
+![](Shreedhar_bhatt/images/4.png)
+![](Shreedhar_bhatt/images/5.png)
 
 
 ## Contributing
